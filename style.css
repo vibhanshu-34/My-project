@@ -62,11 +62,13 @@ body{
 .anim_1{
   height: 550px;
   width: 150px;
+  border-radius: 30px;
   background: linear-gradient(90deg,#490089,#02CFFF);
   animation: aa 10s infinite linear;
 }
 
 .anim_2{
+  border-radius: 30px;
   height: 550px;
   width: 150px;
   background: linear-gradient(90deg,#490089,#02CFFF);
